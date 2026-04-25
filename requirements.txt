@@ -1,0 +1,5 @@
+blessed==1.38.0
+blessings==1.7
+colorama==0.4.6
+six==1.17.0
+wcwidth==0.6.0
